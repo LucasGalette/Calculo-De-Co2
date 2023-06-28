@@ -1,0 +1,11 @@
+D:\Calculo_De_Emissão_De_Co2\bin\Debug\Calculo_De_Emissão_De_Co2.exe.config
+D:\Calculo_De_Emissão_De_Co2\bin\Debug\Calculo_De_Emissão_De_Co2.exe
+D:\Calculo_De_Emissão_De_Co2\bin\Debug\Calculo_De_Emissão_De_Co2.pdb
+D:\Calculo_De_Emissão_De_Co2\obj\Debug\Calculo_De_Emissão_De_Co2.csproj.AssemblyReference.cache
+D:\Calculo_De_Emissão_De_Co2\obj\Debug\Calculo_De_Emissão_De_Co2.csproj.SuggestedBindingRedirects.cache
+D:\Calculo_De_Emissão_De_Co2\obj\Debug\Calculo_De_Emissão_De_Co2.frmInicio.resources
+D:\Calculo_De_Emissão_De_Co2\obj\Debug\Calculo_De_Emissão_De_Co2.Properties.Resources.resources
+D:\Calculo_De_Emissão_De_Co2\obj\Debug\Calculo_De_Emissão_De_Co2.csproj.GenerateResource.cache
+D:\Calculo_De_Emissão_De_Co2\obj\Debug\Calculo_De_Emissão_De_Co2.csproj.CoreCompileInputs.cache
+D:\Calculo_De_Emissão_De_Co2\obj\Debug\Calculo_De_Emissão_De_Co2.exe
+D:\Calculo_De_Emissão_De_Co2\obj\Debug\Calculo_De_Emissão_De_Co2.pdb
